@@ -1,4 +1,4 @@
-# Natural Language to SQL for CSV Files (LM Studio)
+# Natural Language to SQL (LM Studio) - NLP-QUERY-HUB
 
 A simple **Streamlit** web app that lets you upload a CSV file and ask questions in plain English. The app converts your request into a SQL query automatically and shows results. Everything runs locally—no database setup required.
 
