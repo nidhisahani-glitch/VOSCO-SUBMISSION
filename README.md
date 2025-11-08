@@ -121,6 +121,4 @@ Edit `app.py` to customize:
 * **SQL Safety Fail:** Only `SELECT` statements allowed; regenerate if needed
 * **DuckDB Issues:** Ensure CSV is well-formed; large files may need sampling
 * **No Results:** Column names in schema must match exactly (case-sensitive)
-
-If you want, I can also **add badges, table of contents, and a shorter intro** to make it look like a professional GitHub README. Do you want me to do that?
-```
+* 
