@@ -121,4 +121,3 @@ Edit `app.py` to customize:
 * **SQL Safety Fail:** Only `SELECT` statements allowed; regenerate if needed
 * **DuckDB Issues:** Ensure CSV is well-formed; large files may need sampling
 * **No Results:** Column names in schema must match exactly (case-sensitive)
-* 
